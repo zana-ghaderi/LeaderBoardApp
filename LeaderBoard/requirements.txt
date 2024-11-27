@@ -1,0 +1,5 @@
+confluent-kafka
+psycopg2~=2.9.9
+redis~=5.0.8
+Flask~=3.0.3
+Flask-HTTPAuth~=4.7.0
